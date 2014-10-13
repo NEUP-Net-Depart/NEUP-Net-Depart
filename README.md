@@ -1,6 +1,6 @@
 Teaching Plan
 ====
-##先锋网络部 #0培训计划  Basis&Fun Parts
+##先锋网络部 #0培训计划  Basis&Fun Parts [Date: 2014-10-15 Wed Time Not Decided yet]
 - 如何利用校园网ipv6免费上网   __MaxZsc__ [10min]
 - 数据丢了怎么办    __YC__ [10min]
  - 删除与格式化原理 
