@@ -6,7 +6,7 @@ Teaching Plan
  - 删除与格式化原理 
  - 硬盘被格式化
  - 文件及文件夹误删
-- 现场装Win7系统    __YC__ [15min]
+- [PPT]现场装Win7系统    __YC__ [15min]
  - UltraISO 制作镜像
  - 大白菜制作镜像
 - [PPT]快速方便的使用Windows系统 --快捷键菌  __YaliZhu Or VOID__ [10 min]
