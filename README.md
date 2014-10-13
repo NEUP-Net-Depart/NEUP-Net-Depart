@@ -2,7 +2,7 @@ Teaching Plan
 ====
 ##先锋网络部 #0培训计划  Basis&Fun Parts
 - 如何利用校园网ipv6免费上网   __MaxZsc__
-- 数据丢了怎么办    __ZZY__
+- 数据丢了怎么办    __YC__
 - 现场装Win7系统    __YC__
 - 快速方便的使用Windows系统 --快捷键菌  __YaliZhu__
 - 如何下载youku 和 tudou的视频  __ZZY__
