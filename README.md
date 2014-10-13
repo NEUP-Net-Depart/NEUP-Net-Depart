@@ -9,7 +9,7 @@ Teaching Plan
 - 现场装Win7系统    __YC__ [15min]
  - UltraISO 制作镜像
  - 大白菜制作镜像
-- [PPT]快速方便的使用Windows系统 --快捷键菌  __YaliZhu__ [10 min]
+- [PPT]快速方便的使用Windows系统 --快捷键菌  __YaliZhu Or VOID__ [10 min]
  - 如何查看快捷键
  - 常用快捷键介绍
 - [PPT]如何下载youku 和 tudou的视频  __ZZY__ [5min]
