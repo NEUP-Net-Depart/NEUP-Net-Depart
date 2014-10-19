@@ -28,7 +28,10 @@ Teaching Plan
 - Variants Type
 - First "HelloWorld" Program 
 - Loop & Condition
- 
+###Before the Training
+#####Mission1  Build up Your Own Programming Environment
+#####Mission2 Make a Hello World Program by yourself
+#####Mission3 Programming Assignment#1
 ##先锋网络部 #2培训计划   Learn To Code in C v2
 - Functions
 - What is array
