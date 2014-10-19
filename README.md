@@ -28,6 +28,7 @@ Teaching Plan
 - Variants Type
 - First "HelloWorld" Program 
 - Loop & Condition
+
 ###Before the Training
 #####Mission1  Build up Your Own Programming Environment
 #####Mission2 Make a Hello World Program by yourself
