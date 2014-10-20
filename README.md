@@ -23,7 +23,7 @@ Teaching Plan
 - 高大上的电脑解剖学 :让你了解电脑运行的基本原理
 - 笔记本选购知识，帮你找到真正适合自己的那一只
 
-##先锋网络部 #1培训计划   Learn To Code in C v1
+##先锋网络部 #1培训计划   Learn To Code in C v1 [Time Not Decided Yet]
 - What is Program
 - Variants Type
 - First "HelloWorld" Program 
