@@ -33,6 +33,8 @@ Teaching Plan
 #####Mission1  Build up Your Own Programming Environment
 #####Mission2 Make a Hello World Program by yourself
 #####Mission3 [Programming Assignment#1](https://github.com/VOID001/NEUP-Net-Depart/blob/master/PA%231.md)
+###After the Training
+#####Mission4 [Programming Assignment#2](https://github.com/VOID001/NEUP-Net_Depart/blob/master/PA%232.md)
 ##先锋网络部 #2培训计划   Learn To Code in C v2
 - Functions
 - What is array
